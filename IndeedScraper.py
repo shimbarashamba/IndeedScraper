@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 # Latest version
 # This code is written to let the user make a search on the job site indeed.com (swedish
 # version) and will scrape the description and location for every job that appears for
@@ -134,16 +128,3 @@ while True:  # Keep this loop running until no "Next" button is found (i.e., rea
         break
 driver.quit()
 print("Program ended.")
-
-
-# In[5]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
